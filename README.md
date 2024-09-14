@@ -1,8 +1,5 @@
 ## Hi there, I'm Abdelmonem 👋
 
-<p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Image" width="150" style="border-radius: 50%;">
-</p>
 
 <p align="center">
   <strong>Software Developer | Web Enthusiast | C++ & C# Expert</strong>
@@ -20,7 +17,6 @@ Hi, I’m **Abdelmonem**, a passionate software developer with expertise in mult
 
 - **Programming Languages**:  
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">  
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 
 - **Web Technologies**:  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">  
@@ -42,7 +38,7 @@ Hi, I’m **Abdelmonem**, a passionate software developer with expertise in mult
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Your LinkedIn](#)
-- **Email**: [Your Email](mailto:youremail@example.com)
+- **Email**: abd.almounam1@gmail.com
 
 ---
 
