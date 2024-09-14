@@ -46,7 +46,7 @@ Hi, I’m **Abdelmonem**, a dedicated software developer with a strong foundatio
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Your LinkedIn](#)
-- **Email**: [abd.almounam1@gmail.com](mailto:youremail@example.com)
+- **Email**: [abd.almounam1@gmail.com](mailto:abd.almounam1@gmail.com)
 
 ---
 
