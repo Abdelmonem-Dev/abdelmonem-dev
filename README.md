@@ -45,7 +45,7 @@ Hi, I’m **Abdelmonem**, a dedicated software developer with a strong foundatio
 ---
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn](#)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/abdelmonem-zeyad)
 - **Email**: [abd.almounam1@gmail.com](mailto:abd.almounam1@gmail.com)
 
 ---
