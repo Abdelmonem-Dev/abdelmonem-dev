@@ -1,38 +1,51 @@
-👋 Hi, I'm Abdelmonem!
-I'm a passionate software developer continuously expanding my knowledge and skills in various programming languages and technologies. My journey began with C++ and has evolved into web development, backend systems, and working with APIs. Below is an overview of my expertise and the technologies I've learned.
+## Hi there, I'm Abdelmonem 👋
 
-💻 Languages & Technologies
-Programming Languages:
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Profile Image" width="150" style="border-radius: 50%;">
+</p>
 
+<p align="center">
+  <strong>Software Developer | Web Enthusiast | C++ & C# Expert</strong>
+</p>
 
-Web Development:
+---
 
+### About Me
 
+Hi, I’m **Abdelmonem**, a passionate software developer with expertise in multiple programming languages and a focus on building efficient and scalable solutions. My journey started with C++, and now I'm proficient in web development, backend systems, and API integrations.
 
-Backend Development:
+---
 
+### 🚀 Skills & Technologies
 
-Data Formats:
+- **Programming Languages**:  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">  
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 
+- **Web Technologies**:  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" alt="CSS3">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 
-API & Integration:
+- **Backend**:  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 
-Software Development Principles:
+---
 
-Object-Oriented Programming (OOP) in C++
-Model-View-Controller (MVC) architecture
-🚀 What I’m Currently Learning
-Enhancing my skills in OOP with C++ for developing efficient and scalable applications
-Diving deeper into API development and integration to build dynamic web apps
-Continuing my journey into mastering C# for building cross-platform solutions
-🌱 My Developer Goals
-Build full-stack web applications using PHP, SQL, JS, and API integration
-Create a portfolio of projects that showcase my expertise across C++, C#, and web technologies
-Collaborate on open-source projects to contribute to the community
-📫 Get in Touch
-Feel free to reach out to me for collaborations, coding discussions, or project inquiries:
+### 🌱 Currently Learning
+- Advanced Object-Oriented Programming in **C++**
+- Full-stack web development using **PHP**, **JavaScript**, and **SQL**
+- API development and integration
 
-LinkedIn: Your LinkedIn
-Email: Your Email
-Thanks for stopping by! 😊
+---
+
+### 📫 How to Reach Me
+- **LinkedIn**: [Your LinkedIn](#)
+- **Email**: [Your Email](mailto:youremail@example.com)
+
+---
+
+### ⚡ Fun Fact
+I started my programming journey with **C++**, and I'm always eager to learn new things and collaborate with others!
 
