@@ -35,16 +35,9 @@ Hi, I’m **Abdelmonem**, a dedicated software developer with a strong foundatio
   <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">  
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white" alt="XML">
 
-🛠️ Frameworks & Libraries
-Here are the frameworks and libraries I use to build efficient and scalable applications:
-
-Frontend Frameworks:
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-
+- **Frameworks & Libraries**:  
 Backend Frameworks:
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js (Learning)">
 
 ---
 
