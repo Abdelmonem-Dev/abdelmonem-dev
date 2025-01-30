@@ -54,6 +54,4 @@ Backend Frameworks:
 
 ---
 
-### ⚡ Fun Fact
-I started with **C++**, and it’s still my favorite language for building efficient, high-performance applications. I'm always eager to expand my knowledge and collaborate on exciting projects!
-
+<iframe src="https://github.com/sponsors/Abdelmonem-Dev/card" title="Sponsor Abdelmonem-Dev" height="225" width="600" style="border: 0;"></iframe>
