@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">  
-  <strong>Software Developer | C++ Enthusiast | Web Developer</strong>  
+  <strong> Web Developer</strong>  
 </p>  
 
 ---
