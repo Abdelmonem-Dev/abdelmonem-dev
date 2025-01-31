@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Developer | C++ Enthusiast | Web Developer</strong>
+  <strong>A passionate Junior Full Stack developer from Jordan</strong>
 </p>
 
 ---
