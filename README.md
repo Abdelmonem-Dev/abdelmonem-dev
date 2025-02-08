@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A passionate Junior Full Stack developer from Jordan</strong> <br>
-  <small> My website: https://abdelmonem-dev.github.io/abdelmonem/ </small>smail>
+  <small> My website: https://abdelmonem-dev.github.io/abdelmonem/ </small>
 </p>
 
 ---
