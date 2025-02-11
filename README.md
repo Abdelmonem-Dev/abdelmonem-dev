@@ -37,7 +37,6 @@ Hi, I’m **Abdelmonem**, a dedicated software developer with a strong foundatio
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white" alt="XML">
 
 - **Frameworks**:  
-Backend Frameworks:
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
 
 ---
