@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A passionate Junior Full Stack developer from Jordan</strong> <br>
-[![Website](https://img.shields.io/badge/My%20Website-Click%20Here-blue?style=flat&logo=google-chrome)](https://abdelmonem-dev.github.io/abdelmonem/)
+[![Website](https://img.shields.io/badge/Website-Online-green?style=flat&logo=internet-explorer)](https://abdelmonem-dev.github.io/abdelmonem/)
 </p>
 
 ---
