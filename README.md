@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>A passionate Junior Full Stack developer from Jordan</strong>
+  <strong>Full Stack developer from Jordan</strong>
 </p>
 
 <p align="center">
